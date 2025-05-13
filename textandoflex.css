@@ -1,0 +1,21 @@
+body{
+    background-color:rgb(105, 105, 212);
+}
+.container{
+    display: flex;
+    background-color: rgb(114, 114, 236);
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+     /* height: 600px;  */
+     /*gap: 30px 50px; */  
+    /* justify-content: center; */
+}
+.item{
+    /* width: 200px; */
+    height: 200px;
+    background-color: aquamarine;
+}
+.item-3{
+flex-grow: 1;
+}

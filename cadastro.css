@@ -1,0 +1,56 @@
+h1 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+nav{
+    text-align: center;
+}
+header{
+    background-color: #B0FE76;
+}
+h5{
+    text-align: center;
+}
+footer{background-color: black
+    
+    }
+p{
+    color: white;
+    text-align: center;
+}
+
+header{
+    background-color: #B0FE76(157, 100%, 49%, 0.984);
+}
+a{
+    text-decoration: none;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+form{
+    margin:50px auto;
+    width: 400px;
+} 
+nav{
+    text-align: center;
+    display: flex;
+    flex-direction:column;
+}
+h3{
+    text-align: center;
+    font-family: monospace;
+    margin-top: 35px;
+}
+fieldset{
+    margin-top: 40px auto 0;
+    display: block;
+    min-width: 300px;
+    padding: 20px;
+    text-align: center;
+}
+footer{
+    position: absolute;
+    left: 0; bottom: 0; width: 100%
+}

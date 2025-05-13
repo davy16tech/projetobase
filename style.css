@@ -1,0 +1,49 @@
+h1 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+nav{
+    text-align: center;
+    display: flex;
+    flex-direction:column;
+    margin-top: 20px;
+    justify-content: space-batween;
+}
+header{
+    background-color: #B0FE76;
+}
+h5{
+    text-align: center;
+}
+footer{
+    background-color: black   
+    }
+#pdofooter{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+
+a{
+    text-decoration: none;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    background-color: #476ECC;
+    width: 400px;
+    height: 440px;
+    margin: 50px auto;
+    text-align: center;
+}
+ol{display:inline-block;}
+#h2doroteiro{
+    border:10px solid #ffffff;
+    border-radius: 80px;
+}
+h2{
+    text-align: center;
+
+}

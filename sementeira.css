@@ -1,0 +1,48 @@
+h1 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+nav{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+
+}
+header{
+    background-color:#B0FE76
+}
+h5{
+    text-align: center;
+}
+footer{background-color: black
+    }
+#pdofooter{
+    color: white;
+    text-align: center;
+}
+
+header{
+    background-color:#B0FE76;
+}
+a{
+    text-decoration: none;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    background-color: #476ECC;
+    width: 400px;
+    height: 510px;
+    margin: 50px auto;
+    text-align: center;
+}
+ul{display:inline-block}
+#h2dasementeira{
+    border:10px solid #ffffff;
+    border-radius: 80px;
+}
+h2{
+    text-align: center;
+}
