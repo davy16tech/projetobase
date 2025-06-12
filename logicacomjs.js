@@ -147,9 +147,33 @@ while (number != 0){
 number = Number(prompt("Digite o número que deseja somar aos anteriores: "))
 
 }
-console.log("o número final é: " +numerofinal)*/
+console.log("o número final é: " +numerofinal)
 for (let i=1; i<11; i+=2){
     console.log(i)
 }
+function saudar(){
+alert("Seja Bem-vindo ao Sistema!")
+}
+saudar()
+funciton dobrarNumero(numero) {
+return numero * 2;
+}
 
-                                                                                                    
+let resultado = 
+dobrarNumero(5); console.log(resultado);
+
+
+console.log(dobrarNumero(7))
+function cumprimentar (nome){
+    alert("Oi "+nome+" Tenha um exelente dia!")
+}
+let nomedousuario = prompt("Digite o seu nome:")
+cumprimentar(nomedousuario)
+function contagemRegressiva(numero){
+    alert(numero)
+    if (numero ===0){
+    alert("Chegou")
+    }
+    contagemRegressiva(numero-1)
+}
+contagemRegressiva(5)*/                                                                  
